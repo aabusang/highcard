@@ -8,7 +8,7 @@ function App() {
       <h1 className="text-3xl font-bold underline">
         Welcome to High Card!
       </h1>
-
+      
       <GameBoard />
       
     </div>
